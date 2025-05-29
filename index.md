@@ -17,3 +17,6 @@ Playing around with adding a code example depending on the format
 ``` javascript
 var myVar = "Taco Bell";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
